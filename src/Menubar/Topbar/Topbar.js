@@ -7,6 +7,7 @@ class Topbar extends Component {
    Topbar goes here
     <Middlespot/>
     Subbar goes here
+    
       </div>
     );
   }
